@@ -1,0 +1,73 @@
+
+@media (max-width:600px) {
+          .smallFont{
+            font-size: 0.65rem !important ;
+          }
+        }
+@media (max-width:600px) {
+          .es_smallFont{
+            font-size: 0.55rem !important ;
+          }
+        }
+
+body {
+    font-family: Raleway,sans-serif !important ;
+    color: #636b6f !important;
+    background-color:#f5f8fa !important ;
+} 
+
+.promlead-bg{
+    background-color:#f5f8fa !important ;
+} 
+
+.promlead-th-bg{
+    background-color:#eceeef !important;
+}
+
+.list-group-item{
+    font-size: 0.8rem !important;
+    padding: 0 0 0 0 !important;
+    
+}
+h1{
+    
+}
+hr{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.list-group-flush .list-group-item{
+    border-top: 0px;
+}
+        
+.bg-faded {
+    background-color: #ffffff;
+    border-bottom: 1px solid transparent;
+    border-color: #d3e0e9;
+    margin-bottom: 20px;
+}
+
+.badge-danger-prl {
+    color: #fff;
+    font-size: 0.8rem !important ;
+    background-color: #d9534f !important;
+}
+.badge-primary-prl {
+    color: #fff;
+    font-size: 0.8rem !important ;
+    background-color: #0275d8 !important;
+}
+.badge-secondary-prl {
+    color: #fff;
+    font-size: 0.8rem !important ;
+    background-color: #6c757d !important;
+}
+.badge-secondary-bordered-prl {
+    color: #fff;
+    border: 1px solid #ced4da !important;
+    
+}
+ 

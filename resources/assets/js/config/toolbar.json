@@ -1,0 +1,14 @@
+{
+    "document": { "name": "document", "items": [ "Source", "-", "Save", "NewPage", "Preview", "Print", "-", "Templates" ] },
+    "clipboard" : { "name": "clipboard", "items": [ "Cut", "Copy", "Paste", "PasteText", "PasteFromWord", "-", "Undo", "Redo" ] },
+    "editing": { "name": "editing", "items": [ "Find", "Replace", "-", "SelectAll", "-", "Scayt" ] },
+    "forms" : { "name": "forms", "items": [ "Form", "Checkbox", "Radio", "TextField", "Textarea", "Select", "Button", "ImageButton", "HiddenField" ] },
+    "basicstyles" : { "name": "basicstyles", "items": [ "Bold", "Italic", "Underline", "Strike", "Subscript", "Superscript", "-", "CopyFormatting", "RemoveFormat" ] },
+    "paragraph" : { "name": "paragraph", "items": [ "NumberedList", "BulletedList", "-", "Outdent", "Indent", "-", "Blockquote", "CreateDiv", "-", "JustifyLeft", "JustifyCenter", "JustifyRight", "JustifyBlock", "-", "BidiLtr", "BidiRtl", "Language" ] },
+    "links" : { "name": "links", "items": [ "Link", "Unlink", "Anchor" ] },
+    "insert" : { "name": "insert", "items": [ "Image", "Flash", "Table", "HorizontalRule", "Smiley", "SpecialChar", "PageBreak", "Iframe" ] },
+    "styles" : { "name": "styles", "items": [ "Styles", "Format", "Font", "FontSize" ] },
+    "colors" : { "name": "colors", "items": [ "TextColor", "BGColor" ] },
+    "tools" : { "name": "tools", "items": [ "Maximize", "ShowBlocks" ] },
+    "about" : { "name": "about", "items": [ "About" ] }
+}
